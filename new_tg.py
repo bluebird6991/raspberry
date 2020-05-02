@@ -48,7 +48,7 @@ def log_event(text):
         with open('/home/pi/raspberry/log.txt', 'w') as f:
             f.write(text + '\n')
     else:
-        with open('log.txt', 'a') as f:
+        with open('/home/pi/raspberry/log.txt', 'a') as f:
             f.write(text + '\n')
 
 
