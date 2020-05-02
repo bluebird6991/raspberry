@@ -31,8 +31,11 @@ def get_new_message():
         if not 'message' in update or not 'text' in update['message']:
             log_event('Unknown update: %s' % update)  # сохраняем в лог пришедшее обновление
             continue
+        try:
+            name = update['message']['chat']['username']  # Извлечение username отправителя
+        except:
+            name = 'unknown'
         from_id = update['message']['chat']['id']  # Извлечение ID чата (отправителя)
-        name = update['message']['chat']['username']  # Извлечение username отправителя
         message = update['message']['text']  # Извлечение текста сообщения
         log_event('Message (id%s) from %s (id%s): "%s"' % (offset, name, from_id, message))
 
