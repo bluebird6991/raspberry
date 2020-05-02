@@ -1,0 +1,68 @@
+{'update_id': 836342763,
+'message': {'message_id': 54,
+            'from': {'id': 341115219, 'is_bot': False, 'first_name': 'Timur', 'username': 'bluebird6991', 'language_code': 'en'},
+            'chat': {'id': 341115219, 'first_name': 'Timur', 'username': 'bluebird6991', 'type': 'private'},
+            'date': 1588444194, '
+            text': 'PIPISKA'}
+} -- update
+
+
+[{'update_id': 836342766,
+ 'message': {'message_id': 57, '
+ from': {'id': 341115219, 'is_bot': False, 'first_name': 'Timur', 'username': 'bluebird6991', 'language_code': 'en'},
+ 'chat': {'id': 341115219, 'first_name': 'Timur', 'username': 'bluebird6991', 'type': 'private'}, 'date': 1588446553,
+ 'photo': [{'file_id': 'AgACAgIAAxkBAAM5Xq3FWSImrVtq2olGGM71NqO9JjkAAk2tMRtUkHFJfHtaVG70JxdTJ3eRLgADAQADAgADbQADoMECAAEZBA', 'file_unique_id': 'AQADUyd3kS4AA6DBAgAB', 'file_size': 10301, 'width': 264, 'height': 170}]}}]}
+>>> bot = telepot.Bot('542543102:AAE7xb6_XGAn9Yh-4PPJmfK5YK9TEA4')
+>>> bot = url+'/getUpdates'
+Unknown update: {'update_id': 836342766, 'message': {'message_id': 57, 'from': {'id': 341115219, 'is_bot': False, 'first_name': 'Timur', 'username': 'bluebird6991', 'language_code': 'en'}, 'chat': {'id': 341115219, 'first_name': 'Timur', 'username': 'bluebird6991', 'type': 'private'}, 'date': 1588446553, 'photo': [{'file_id': 'AgACAgIAAxkBAAM5Xq3FWSImrVtq2olGGM71NqO9JjkAAk2tMRtUkHFJfHtaVG70JxdTJ3eRLgADAQADAgADbQADoMECAAEZBA', 'file_unique_id': 'AQADUyd3kS4AA6DBAgAB', 'file_size': 10301, 'width': 264, 'height': 170}]}}
+Message (id836342767) from bluebird6991 (id341115219): "pidor"
+Message (id836342768) from bluebird6991 (id341115219): "pidor"
+Message (id836342769) from bluebird6991 (id341115219): "/start"
+Message (id836342770) from bluebird6991 (id341115219): "start"
+Message (id836342771) from bluebird6991 (id341115219): "s"
+Message (id836342772) from bluebird6991 (id341115219): "s"
+Message (id836342773) from bluebird6991 (id341115219): "s"
+Message (id836342774) from bluebird6991 (id341115219): "s"
+Error getting updates at <module 'time' (built-in)>
+Error getting updates at <module 'time' (built-in)>
+Error getting updates at <module 'time' (built-in)>
+Error getting updates at <module 'time' (built-in)>
+Error getting updates at <module 'time' (built-in)>
+Error getting updates at <module 'time' (built-in)>
+Error getting updates at <module 'time' (built-in)>
+Error getting updates at <module 'time' (built-in)>
+Error getting updates at <module 'time' (built-in)>
+Message (id836342775) from bluebird6991 (id341115219): "pidor"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
+Message (id836342776) from bluebird6991 (id341115219): "/start"
+Sending to 341115219: Let's Start
+Message (id836342777) from bluebird6991 (id341115219): "/help"
+Sending to 341115219: in this cruel world you will not get help
+Message (id836342778) from bluebird6991 (id341115219): "help"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
+Message (id836342779) from bluebird6991 (id341115219): "das"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
+Message (id836342780) from bluebird6991 (id341115219): "dsad"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
+Message (id836342781) from bluebird6991 (id341115219): "ad"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
+Message (id836342782) from bluebird6991 (id341115219): "as"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
+Message (id836342783) from bluebird6991 (id341115219): "das"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
+Message (id836342784) from bluebird6991 (id341115219): "d"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
+Message (id836342785) from bluebird6991 (id341115219): "as"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
+Message (id836342786) from bluebird6991 (id341115219): "a"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
+Message (id836342787) from bluebird6991 (id341115219): "d"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
+Message (id836342788) from bluebird6991 (id341115219): "s"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
+Message (id836342789) from bluebird6991 (id341115219): "d"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
+Message (id836342790) from bluebird6991 (id341115219): "f"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
+Message (id836342791) from bluebird6991 (id341115219): "a"
+Sending to 341115219: Got it, but don't know what to do with that sh*t
