@@ -41,8 +41,8 @@ def get_new_message():
 
 
 def log_event(text):
-    if os.path.getsize('log.txt') > 10000:
-        with open('log.txt', 'w') as f:
+    if os.path.getsize('/home/pi/raspberry/log.txt') > 10000:
+        with open('/home/pi/raspberry/log.txt', 'w') as f:
             f.write(text + '\n')
     else:
         with open('log.txt', 'a') as f:
